@@ -94,5 +94,5 @@ WORKDIR "${THELOUNGE_HOME}"
 # Expose HTTP.
 ENV PORT 9000
 EXPOSE ${PORT}
-# Expose Identd port
-EXPOSE 113
+# Expose additional port for Identd
+EXPOSE 9001
