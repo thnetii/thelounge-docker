@@ -1,0 +1,8 @@
+{
+  "name": "thelounge-thnetii",
+  "version": "1.0.0",
+  "repository": "https://github.com/thnetii/thelounge-docker.git",
+  "author": "Fredrik Høisæther Rasch <fredrik.rasch@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
