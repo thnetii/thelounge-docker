@@ -96,3 +96,5 @@ ENV PORT 9000
 EXPOSE ${PORT}
 # Expose additional port for Identd
 EXPOSE 9001
+
+CMD [ "thelounge.cmd", "start" ]
